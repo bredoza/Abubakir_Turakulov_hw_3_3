@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Friends</string>
+    <string name="object">Object</string>
+    <string name="object_name">object_name</string>
+    <string name="object_text">object_text</string>
+    <string name="friends_list">Friend\'s list</string>
+</resources>
